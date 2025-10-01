@@ -10,4 +10,5 @@ public abstract class Card {
     public abstract int getCardType();
     
     //Aldaketa proba
+    //new coment
 }
